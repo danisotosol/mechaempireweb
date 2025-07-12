@@ -120,6 +120,112 @@ const Home = () => {
                 </div>
             </div>
 
+            <div className="container">
+                <div className="row">
+                    <div className="card col">
+                        <img
+                            src="https://ciudadmangacr.com/cdn/shop/files/22.500-045557407322_2.jpg?v=1736809576"
+                            alt="Producto 4"
+                        />
+                        <div className="card-body">
+                            <h4 className="card-title">Card title 4</h4>
+                            <p className="card-text">
+                                some quick example text to build on the card title and make up the bulk of the cards content
+                            </p>
+                            <a className="btn btn-primary" href="">
+                                Ir a Producto
+                            </a>
+                        </div>
+                    </div>
+
+                    <div className="card col">
+                        <img
+                            src="https://m.media-amazon.com/images/I/8146soLva0L.jpg"
+                            alt="Producto 5"
+                        />
+                        <div className="card-body">
+                            <h5 className="card-title">Card title 5</h5>
+                            <p className="card-text">
+                                some quick example text to build on the card title and make up the bulk of the cards content
+                            </p>
+                            <a className="btn btn-primary" href="">
+                                Ir a Producto
+                            </a>
+                        </div>
+                    </div>
+
+                    <div className="card col">
+                        <img
+                            src="https://m.media-amazon.com/images/I/619kPEO3FwS.jpg"
+                            alt="Producto 6"
+                        />
+                        <div className="card-body">
+                            <h5 className="card-title">Card title 6</h5>
+                            <p className="card-text">
+                                some quick example text to build on the card title and make up the bulk of the cards content
+                            </p>
+                            <a className="btn btn-primary" href="">
+                                Ir a Producto
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <br />
+
+            <div className="container">
+                <div className="row">
+                    <div className="card col">
+                        <img
+                            src="https://m.media-amazon.com/images/I/81x-KK-FClL.jpg"
+                            alt="Producto 7"
+                        />
+                        <div className="card-body">
+                            <h4 className="card-title">Card title 7</h4>
+                            <p className="card-text">
+                                some quick example text to build on the card title and make up the bulk of the cards content
+                            </p>
+                            <a className="btn btn-primary" href="">
+                                Ir a Producto
+                            </a>
+                        </div>
+                    </div>
+
+                    <div className="card col">
+                        <img
+                            src="https://images.ctfassets.net/s5n2t79q9icq/4X7lXtcbz6D2l4uWvsOyEN/b5edede745f4f3602f5c9864e5dcc908/EN_cCcvb37BbshGHpp0.png"
+                            alt="Producto 8"
+                        />
+                        <div className="card-body">
+                            <h5 className="card-title">Card title 8</h5>
+                            <p className="card-text">
+                                some quick example text to build on the card title and make up the bulk of the cards content
+                            </p>
+                            <a className="btn btn-primary" href="">
+                                Ir a Producto
+                            </a>
+                        </div>
+                    </div>
+
+                    <div className="card col">
+                        <img
+                            src="https://images.ctfassets.net/s5n2t79q9icq/3Bq3bvCF66afvG5jClCycT/d46a117d89f5beec26f5549f054cec92/FIN_MTG_STG_Prerelease.png"
+                            alt="Producto 9"
+                        />
+                        <div className="card-body">
+                            <h5 className="card-title">Card title 9</h5>
+                            <p className="card-text">
+                                some quick example text to build on the card title and make up the bulk of the cards content
+                            </p>
+                            <a className="btn btn-primary" href="">
+                                Ir a Producto
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
             <br />
             <br />
             <br />
