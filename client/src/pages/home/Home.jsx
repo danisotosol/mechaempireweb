@@ -43,6 +43,7 @@ const Home = () => {
                     </label>
                     <br />
                 </div>
+                
 
                 <div className="form-check">
                     <input
@@ -52,13 +53,11 @@ const Home = () => {
                         id="radioEjemplo2"
                     />
                     <label className="form-check-label" htmlFor="radioEjemplo2">
-                        No mostrar productos agotados del inventario
+                        No mostrar productos agotados del inventario.
                     </label>
                     <br />
                 </div>
-
                 <br />
-
                 <input
                     className="btn btn-primary"
                     type="submit"
@@ -66,13 +65,9 @@ const Home = () => {
                     value="Enviar"
                 />
             </form>
-
             <br />
-
             <h2>Lo más buscado</h2>
-
             <br />
-
             <div className="container">
                 <div className="row">
                     <div className="card col">
