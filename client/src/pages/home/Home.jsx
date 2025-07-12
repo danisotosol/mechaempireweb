@@ -18,7 +18,6 @@ const Home = () => {
                     name="BuscarProducto"
                     id="buscarProducto"
                 />
-
                 <br />
 
                 <label className="form-label" htmlFor="ordenarPor">Ordenar por:</label>
@@ -30,7 +29,6 @@ const Home = () => {
                     <option>Antigüedad de más nuevo a más viejo</option>
                     <option>Antigüedad de más viejo a más nuevo</option>
                 </select>
-
                 <br />
 
                 <div className="form-check">
@@ -128,11 +126,6 @@ const Home = () => {
             </div>
 
             <br />
-
-            {/* Puedes repetir la estructura container/row/card para las demás secciones */}
-
-            {/* ... resto de tarjetas igual */}
-
             <br />
             <br />
         </div>
