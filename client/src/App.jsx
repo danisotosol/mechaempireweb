@@ -16,6 +16,8 @@ function App() {
                 <Route path="/" element={<Home />} />
                 <Route path="/carrito" element={<Carrito />} />
                 <Route path="/perfil" element={<PerfilUsuario />} />
+
+                <Route path={ "*"} element={<div className="container py-4">Página no encontrada</div>} />
             </Routes>
         </div>
     )
